@@ -1,0 +1,12 @@
+{
+  "name": "neurolock-desktop",
+  "version": "1.0.0",
+  "main": "src/main/index.js",
+  "type": "module",
+  "scripts": {
+    "electron": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^30.0.0"
+  }
+}
